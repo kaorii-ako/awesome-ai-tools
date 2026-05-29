@@ -204,6 +204,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Academia
 
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Free open-source AI study companion. Google Classroom sync, Gemini AI plans, SRS flashcards, GPA calculator, AI quiz generator, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
+
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 - [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
